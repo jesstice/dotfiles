@@ -10,6 +10,7 @@ cask "vlc"                      # Open Source Video Player
 brew "commitizen"   # Semantic Git commit messages
 brew "gh"           # Github CLI
 brew "nvm"          # Node.js version management
+brew "rbenv"        # Ruby version management
 
 # Fonts
-cask "font-fira-code"
+cask "font-iosevka-nerd-font"
